@@ -410,7 +410,6 @@ div.galeriatienda img.detras:hover {
     #sidebar a.first, #sidebar_ti a.first {
         margin-top: 2em;
     }
-
     #sidebar a:hover, #sidebar_ti a:hover {
         background-image: url(Imágenes/icons8-vertical-line-40.png);
         background-repeat: no-repeat;
@@ -593,9 +592,5 @@ la pantalla se reduce*/
     }
     div.bothead a.socio {
         margin-left: 1em;
-    }
-    .navbar li a.fallo {
-        background-color: #FDBC01;
-        padding-bottom: 15em;
     }
 }
