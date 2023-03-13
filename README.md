@@ -13,7 +13,7 @@
 > He utilitzat gridview juntament amb flex box a Principal.html. La resta d'arxius fan servir float y tamanys en percentatge per fer-les responsive. Amb media queries a tots els arxius canviant la disposició general.
 4. Utilitzar els Layout de HTML (, , ...)
 5. Incloure un menú superior fix amb desplegables.
-> Inclòs en els arxius Principl.html, HorariosPartidos.html, GaleriaJugadores.html.
+> Inclòs en els arxius Principal.html, HorariosPartidos.html, GaleriaJugadores.html.
 6. Incloure un menú lateral ocultable.
 > Es troba a l'arxiu GaleriaTienda.html (que no té menú superior fixe). Utilitzant les "Media Queries, quan la pantalla es fa més petita a la resta d'arxius el menú superior fixe es substitueix pel menú lateral ocultable."
 7. Incloure un formulari:
