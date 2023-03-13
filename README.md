@@ -2,7 +2,7 @@
 ---
 
 1. Almenys 3 arxius HTML i 1 arxiu CSS.
-> Principl.html, HorariosPartidos.html, GaleriaTienda.html, GaleriaJugadores.html, FormularioSocio.html + estilos.css, estilosForm.css
+> Principal.html, HorariosPartidos.html, GaleriaTienda.html, GaleriaJugadores.html, FormularioSocio.html + estilos.css, estilosForm.css
 2. Totes les pàgines HTML han de tenir vinculat almenys un arxiu CSS.
 3. Les pàgines web han de ser responsive:
 - Incloure Viewport a totes les pàgines.
