@@ -11,7 +11,7 @@
 - Utilitzar Media Queries perquè almenys totes les pàgines puguin ser visualitzades a pantalles d'escriptori i telèfons mòbils amb disposicions diferents.
 - Mida de lletres amb unitats em.
 > He utilitzat gridview juntament amb flex box a Principal.html. La resta d'arxius fan servir float y tamanys en percentatge per fer-les responsive. Amb media queries a tots els arxius canvía la disposició general.
-4. Utilitzar els Layout de HTML (, , ...)
+4. Utilitzar els Layout de HTML (header, article, section...)
 5. Incloure un menú superior fix amb desplegables.
 > Inclòs en els arxius Principal.html, HorariosPartidos.html, GaleriaJugadores.html.
 6. Incloure un menú lateral ocultable.
