@@ -13,9 +13,11 @@ p {
 }
 /*Esto hace que se tenga en cuenta el header y el menu horizontal a la hora de hacer scroll 
 cuando la página te lleva a otra parte de esta*/
+html {
+    scroll-behavior: smooth;
+}
 :target {
     scroll-margin-top: 4.5em;
-    scroll-behavior: smooth;
 }
 
 /*BARRA DE NAVEGACIÓN (MENÚ HORIZONTAL FIJO). Se aplica en el Principal, HorariosPartidos y GaleríaJugadores*/
